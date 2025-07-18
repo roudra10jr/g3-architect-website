@@ -225,6 +225,19 @@ main > section{
     filter: grayscale(100%);
 }
 
+/* footer styles */
+footer{
+    max-width: 1440px;
+    margin: 100px auto;
+}
+.footer-content{
+    background-color: rgba(255, 244, 231, 1);
+    padding-top: 38px;
+    padding-bottom: 38px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-align: center;
+}
 
 
 /* responsiveness for small devices */
